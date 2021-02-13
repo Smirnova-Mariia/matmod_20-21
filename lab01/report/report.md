@@ -66,3 +66,8 @@ header-includes:
 # Выводы
 
 В процессе выполнения работы мы создали репозиторий для наших лабораторных работ, вспомнили, как работать с git и написали отчет в markdown.
+
+# Ссылка на видео и гитхаб
+
+github: https://github.com/Smirnova-Mariia/matmod_20-21/tree/master/lab01
+youtube: https://youtu.be/oCCzAKU2fXk
